@@ -4,7 +4,7 @@
 
 **AAA Software Studio** · Windows 10/11 x64 · **4.2.3 single-file build**
 
-[Releases](https://github.com/aaa-software-studio/aaa-expressvpn-test-lab-showcase/releases) · [Report an issue](https://github.com/aaa-software-studio/aaa-expressvpn-test-lab-showcase/issues)
+[Download EXE](https://github.com/aaa-software-studio/aaa-expressvpn-test-lab-showcase/releases/download/v4.2.3/AAA-ExpressVPN-TestLab-4.2.3-Windows-x64.exe) · [Latest release](https://github.com/aaa-software-studio/aaa-expressvpn-test-lab-showcase/releases/latest) · [Report an issue](https://github.com/aaa-software-studio/aaa-expressvpn-test-lab-showcase/issues)
 
 AAA ExpressVPN Test Lab brings location selection, protocol checks, live results and connection reports into one Windows dashboard. It works with the official ExpressVPN application already installed and signed in on your computer.
 
@@ -16,7 +16,7 @@ Download **AAA-ExpressVPN-TestLab-4.2.3-Windows-x64.exe** from the release Asset
 
 You still need the **official ExpressVPN Windows application**, a compatible `expressvpnctl.exe` and your own active account. Sign in through ExpressVPN's own window. The utility may request administrator rights when controlling VPN connections.
 
-The release file is the manually attached **.exe**, not GitHub's automatic **Source code** ZIP/TAR downloads. Those contain this documentation repository only. The download is available once the release is published.
+The release file is the manually attached **.exe**, not GitHub's automatic **Source code** ZIP/TAR downloads. Those contain this documentation repository only.
 
 ## What you can do
 
