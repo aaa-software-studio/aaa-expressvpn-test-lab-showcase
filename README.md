@@ -37,7 +37,7 @@ Preflight errors, cancellation and Stop before connection changes are covered by
 
 ## Build and validation
 
-Version 4.2.3 changes packaging to a single executable and adds an embedded notices viewer. VPN scan logic is unchanged from 4.2.2. The preceding folder-based 4.2.2 GUI was opened successfully on the creator's Windows PC. New build and standalone startup results will be recorded in the 4.2.3 release notes; this does not imply a full live VPN test or compatibility with every Windows installation.
+Version 4.2.3 changes packaging to a single executable and adds an embedded notices viewer. VPN scan logic is unchanged from 4.2.2. The preceding folder-based 4.2.2 GUI was opened successfully on the creator's Windows PC. The 4.2.3 Windows build and 46 automated tests passed. The EXE was copied alone into an empty folder and successfully initialized its GUI and bundled notices. This startup check did not start a VPN scan and does not imply compatibility with every Windows installation.
 
 The binary is unsigned. No publisher signature or independent security audit is claimed.
 
